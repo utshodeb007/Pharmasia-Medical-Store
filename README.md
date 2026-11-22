@@ -801,14 +801,8 @@ This project represents the practical implementation of web development, databas
 
 ---
 
-## 🔗 GitHub Repository
-
-**Project:** Pharmasia Medical Store
-
-**Repository:**  
-https://github.com/utshodeb007/Pharmasia-Medical-Store
-
----
+**GitHub Profile:**  
+https://github.com/utshodeb007
 
 <p align="center">
 
@@ -817,5 +811,6 @@ https://github.com/utshodeb007/Pharmasia-Medical-Store
 **Department of Computer Science and Engineering**
 
 **Northern University Bangladesh**
+---
 
-</p>
+
