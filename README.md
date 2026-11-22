@@ -808,10 +808,6 @@ This project represents the practical implementation of web development, databas
 **Repository:**  
 https://github.com/utshodeb007/Pharmasia-Medical-Store
 
-**Developer:** Utsho Kumar Deb
-
-**University:** Northern University Bangladesh
-
 ---
 
 <p align="center">
